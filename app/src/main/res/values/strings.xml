@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Factorial</string>
+    <!-- -->
+    <string name="mensaje">Introduce un valor numérico entero positivo</string>
+    <string name="boton">Púlsame</string>
+    <string name="saludo">¡Bienvenido/a!</string>
+</resources>

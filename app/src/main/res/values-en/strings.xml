@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje">Enter a positive integer</string>
+    <string name="boton">Press me</string>
+    <string name="saludo">Welcome!</string>
+</resources>
